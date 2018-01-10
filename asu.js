@@ -1,0 +1,1 @@
+document.write("<xt id="ad" type="admob" site="ca-app-pub-4300189749497726/8111579535"/>") ;
